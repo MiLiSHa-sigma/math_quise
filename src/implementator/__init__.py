@@ -1,0 +1,2 @@
+from src.implementator.console_app import consol_version
+from src.implementator.grafic_app import graphic_version
